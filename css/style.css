@@ -1,0 +1,185 @@
+.nav, .zyyw, .anli, .youshi {
+  font-size: 0;
+  -webkit-text-size-adjust: none; }
+
+.mar-b24 {
+  margin-bottom: 0.64rem; }
+
+#header {
+  margin-bottom: 1.2rem; }
+
+.nav {
+  border-bottom: 0.2133333333rem solid #efefef; }
+  .nav li {
+    width: 25%;
+    display: inline-block;
+    font-size: 0.5866666667rem;
+    margin-bottom: 0.96rem; }
+    .nav li a {
+      display: block; }
+    .nav li img {
+      width: 65%;
+      margin: 0 auto; }
+    .nav li p {
+      text-align: center;
+      line-height: 2em; }
+
+.hgroup {
+  padding-left: 3.04rem;
+  margin: 0.8533333333rem 0; }
+  .hgroup h2 {
+    font-size: 1.0133333333rem; }
+  .hgroup p {
+    font-size: 0.64rem; }
+
+.h-1 {
+  background: url(../images/h-1.png) no-repeat 0.4rem center;
+  background-size: auto 100%; }
+
+.h-2 {
+  background: url(../images/h-2.png) no-repeat 0.4rem center;
+  background-size: auto 100%; }
+
+.h-3 {
+  background: url(../images/h-3.png) no-repeat 0.4rem center;
+  background-size: auto 100%; }
+
+.zyyw {
+  text-align: center; }
+  .zyyw li {
+    width: 42%;
+    height: 11.2rem;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 2% 0.7rem;
+    padding: 0.3733333333rem;
+    font-size: 0.5866666667rem;
+    background: #f7f7f7; }
+    .zyyw li:hover {
+      background: #5396d9;
+      color: #fff; }
+      .zyyw li:hover p {
+        color: #fff; }
+    .zyyw li h3 {
+      font-size: 0.7466666667rem;
+      margin: 0.4rem 0;
+      font-weight: normal; }
+    .zyyw li p {
+      text-align: justify;
+      line-height: 1.4em;
+      color: #666; }
+
+.anli {
+  text-align: center; }
+  .anli li {
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 2% 0.7rem;
+    padding: 0.3733333333rem;
+    font-size: 0.5866666667rem;
+    background: #f7f7f7; }
+    .anli li p {
+      line-height: 2em;
+      text-align: left;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis; }
+    .anli li:hover {
+      background: #5396d9;
+      color: #fff; }
+      .anli li:hover p {
+        color: #fff; }
+
+.youshi {
+  text-align: center; }
+  .youshi li {
+    width: 30%;
+    height: 9.1733333333rem;
+    display: inline-block;
+    vertical-align: top;
+    border: 0.0266666667rem solid #e5e5e5;
+    margin: 0 0.2133333333rem;
+    font-size: 0.5866666667rem;
+    padding-top: 0.6rem; }
+  .youshi li:nth-child(2) .ys-title {
+    background: #e55a5a; }
+  .youshi li:nth-child(3) .ys-title {
+    background: #e4aa39; }
+  .youshi p {
+    padding: 0.4rem;
+    text-align: justify; }
+
+.ys-title {
+  width: 3.6266666667rem;
+  height: 3.0933333333rem;
+  background: #5396d9;
+  margin: 0 auto;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  padding-top: 0.5333333333rem; }
+  .ys-title img {
+    width: 56%;
+    margin: 0 auto; }
+  .ys-title span {
+    font-size: 0.7466666667rem;
+    font-weight: bold;
+    color: #fff; }
+
+.xinwen {
+  padding: 0 0.4rem; }
+  .xinwen li {
+    background: #f7f7f7;
+    margin-bottom: 0.5866666667rem; }
+  .xinwen dl {
+    padding: 0.5rem 0; }
+    .xinwen dl:after {
+      content: "";
+      display: block;
+      height: 0;
+      visibility: hidden;
+      clear: both; }
+    .xinwen dl dt {
+      width: 20%;
+      float: left;
+      font-size: 0.5866666667rem;
+      text-align: center;
+      line-height: 1.6em; }
+      .xinwen dl dt .riyue {
+        color: #e4aa39;
+        display: inline-block;
+        border: 0.0266666667rem solid #e4aa39;
+        width: 60%;
+        margin: 0 auto;
+        box-sizing: border-box; }
+      .xinwen dl dt .nian {
+        display: inline-block;
+        background: #e4aa39;
+        color: #fff;
+        width: 60%;
+        margin: 0 auto; }
+    .xinwen dl dd {
+      width: 80%;
+      float: left; }
+      .xinwen dl dd h3 {
+        color: #116198;
+        font-size: 0.64rem;
+        font-weight: normal;
+        margin-bottom: 0.2rem; }
+      .xinwen dl dd p {
+        font-size: 0.5866666667rem; }
+
+.foot {
+  background: #333333 url(../images/foot-bg.png);
+  text-align: center;
+  padding: 1.3333333333rem 0; }
+  .foot .foot-logo {
+    width: 30%;
+    margin: 0 auto 0.6666666667rem; }
+  .foot p {
+    font-size: 0.5866666667rem;
+    color: #aaaaaa;
+    line-height: 2em; }
+
+/*# sourceMappingURL=style.css.map */
